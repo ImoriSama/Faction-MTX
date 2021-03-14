@@ -13,7 +13,6 @@ Pour configurer le serveur, il faut changer quelques fichiers. Ça peut faire pe
 
 ## Fin
 Vous avez compris comment marche le serveur, alors amusez-vous bien !
-
 Merci d'avoir suivi ce tuto.
 
 Vous pouvez me contacter sur discord si vous avez des questions Imori-Sama#0612
