@@ -51,6 +51,8 @@ Il vous faudra changer **OBLIGATOIREMENT** la configuration des plugins suivant:
 * CustomGUI
 * TitleManager
 
+N'oubliez pas de changer le motd dans le fichier `server.proprieties`
+
 ## Fin
 Vous avez compris comment marche le serveur, alors amusez-vous bien !
 Merci d'avoir suivi ce tuto.
