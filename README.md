@@ -1,12 +1,6 @@
 # Serveur Faction Préconfiguré
 ## Installation du Serveur:
-* Pour commencer, il faut installer le serveur sur une machine. Etant partenaire de [MTX-Serv](https://mtxserv.com/fr/hebergeur-serveur-minecraft), et faisant principalement le serveur pour eux, je vous conseille donc de prendre un serveur chez eux et de l'installer en 1 click dans la section "plugin pack" dans le panel du serveur. Si vous choisissez ce chemin, vous pouvez passer à la [prochaine section](https://github.com/ImoriSama/Faction-MTX/blob/main/README.md#caract%C3%A9ristiques-du-serveur)
-
-* Vous pouvez malgré tout télécharger par vous même les fichiers via le bouton comme indiqué sur l'image ci-dessous:
-![Image download](https://github.com/ImoriSama/Images-Explications/blob/main/Screenshot_450.png)
-
-Il faut ensuite De-Zip le dossier (via [Winrar](https://www.win-rar.com/start.html?&L=10) par exemple).
-Le dossier ne contient pas un start.bat afin de lancer le serveur sur votre ordinateur, vous pouvez facilement en trouver un sur internet. Il vous faudra un start.sh qui est trouvable facilement sur internet pour le mettre sur un vps par exemple.
+* Pour commencer, il faut installer le serveur sur une machine. Vous pouvez donc l'installer en 1 click dans la section "plugin pack" dans le panel du serveur sur [MTX-Serv](https://mtxserv.com/fr/hebergeur-serveur-minecraft).
 
 ## Caractéristiques du serveur
 
