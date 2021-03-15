@@ -1,11 +1,11 @@
 # Serveur Faction Préconfiguré
 ## Installation du Serveur:
-* Pour commencer, il faut installer le serveur sur une machine. Etant partenaire de [MTX-Serv](https://mtxserv.com/fr/hebergeur-serveur-minecraft), et faisant principalement le serveur pour eux, je vous conseille donc de prendre un serveur chez eux et de l'installer en 1 click dans la section "plugin pack" dans le panel du serveur. Si vous choisissez ce chemin, vous pouvez passer à la [prochaine section](https://github.com/ImoriSama/Faction-MTX/blob/main/README.md#configuration-du-serveur)
+* Pour commencer, il faut installer le serveur sur une machine. Etant partenaire de [MTX-Serv](https://mtxserv.com/fr/hebergeur-serveur-minecraft), et faisant principalement le serveur pour eux, je vous conseille donc de prendre un serveur chez eux et de l'installer en 1 click dans la section "plugin pack" dans le panel du serveur. Si vous choisissez ce chemin, vous pouvez passer à la [prochaine section](https://github.com/ImoriSama/Faction-MTX/blob/main/README.md#caract%C3%A9ristiques-du-serveur)
 
-* Vous pouvez malgré tout télécharger par vous même les fichiers via le bouton ci-dessous:
+* Vous pouvez malgré tout télécharger par vous même les fichiers via le bouton comme indiqué sur l'image ci-dessous:
 ![Image download](https://github.com/ImoriSama/Images-Explications/blob/main/Screenshot_450.png)
 
-Il faut ensuite De-Zip le dossier (via winrar par exemple).
+Il faut ensuite De-Zip le dossier (via [Winrar](https://www.win-rar.com/start.html?&L=10) par exemple).
 Le dossier ne contient pas un start.bat afin de lancer le serveur sur votre ordinateur, vous pouvez facilement en trouver un sur internet. Il vous faudra un start.sh qui est trouvable facilement sur internet pour le mettre sur un vps par exemple.
 
 ## Caractéristiques du serveur
@@ -66,3 +66,11 @@ Vous pouvez me contacter sur discord si vous avez des questions Imori-Sama#0612
 Vous pouvez aussi me suivre sur mes réseaux sociaux:
 * [Twitter](https://twitter.com/Imori_Sama)
 * [YouTube](https://www.youtube.com/c/IMORISAMA/)
+
+Voici les lien de [MTX-Serv](https://mtxserv.com/fr/hebergeur-serveur-minecraft), le partenaire:
+
+* [Discord](https://discord.com/invite/3gTSyJrfe7)
+* [Site](https://mtxserv.com/fr/hebergeur-serveur-minecraft)
+* [Twitter](https://twitter.com/mTxServ)
+
+![Banner Mtx-Serv](https://mtxserv.com/build/img/banner-minecraft-en.gif)
